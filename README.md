@@ -5,7 +5,7 @@
 <img src="achi.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegkr" alt="thegkr" /></a> </p>
 
-- 🌱 I’m currently learning **BCA(Bachelor's in Computer Application)**
+- 🌱 I’m currently learning **BCom(Bachelor of Commerce Datascience and Accounts)**
 
 - 📝 My blog [https://a-game.tk/](https://a-game.tk/)
 
