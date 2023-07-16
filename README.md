@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Goutham krishnan</h1>
-<h3 align="center">A student and a web designer and a pixel artist working individually.</h3><br>
-<img src="https://en.bloggif.com/tmp/e6602a2d18be76dafd84cdd8b1cd18a5/text.gif?1683172164">
+<h3 align="center">A student and a Datascience learner and a pixel artist working individually.</h3><br>
+<img src="details.png">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegkr" alt="thegkr" /></a> </p>
 
 - 🌱 I’m currently learning **BCA(Bachelor's in Computer Application)**
