@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Goutham krishnan</h1>
 <h3 align="center">A student and a Datascience learner and a pixel artist working individually.</h3><br>
-<img src="details.png">
+<img src="achi.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegkr" alt="thegkr" /></a> </p>
 
 - 🌱 I’m currently learning **BCA(Bachelor's in Computer Application)**
