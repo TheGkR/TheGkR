@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amoisfe" target="blank"><img align="center" src="https://cdn.dribbble.com/users/1189961/screenshots/3549327/15._twitter_-_pixel_art_logo.jpg" alt="amoisfe" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.amoz_" target="blank"><img align="center" src="https://openseauserdata.com/files/5c7db0d6e4ea8e09b6476984f8cc2c55.png" alt="mr.amoz_" height="40" width="50" /></a>
 </p>
 
