@@ -9,7 +9,7 @@
 
 - 📝 [My blog](https://gkspace.vercel.app/)
 <img src="main.gif" width="350" height="250">
-- <a href="mailto:gkroo7@protonmail.com">Send Email<img src="https://img.freepik.com/premium-vector/simple-letter-with-pixel-art-style_475147-420.jpg?w=2000" width="20"></a>
+- <a href="mailto:gkroo7@protonmail.com"><img src="https://img.freepik.com/premium-vector/simple-letter-with-pixel-art-style_475147-420.jpg?w=2000" width="20">Send Email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
