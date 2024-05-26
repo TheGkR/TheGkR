@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **BCom(Bachelor of Commerce Datascience and Accounts)**
 
 - 📝 [My blog](https://gkspace.vercel.app/)
-
+<img src="main.gif">
 - <img src="https://img.freepik.com/premium-vector/simple-letter-with-pixel-art-style_475147-420.jpg?w=2000" width="20"> **gkroo7@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
