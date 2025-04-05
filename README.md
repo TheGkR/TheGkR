@@ -1,24 +1,59 @@
-<!-- Retro Pixel Art Theme -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=150&section=header&text=👾%20Welcome%20to%20Veltric's%20Arcade%20Zone!%20👾&fontColor=FFD700&fontSize=30&fontAlignY=35" />
-</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Veltric&show_icons=true&theme=tokyonight&hide_title=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veltric&layout=compact&theme=tokyonight" /> </p>
+```markdown
+# 🎮 Veltric's Pixel Playground 👾
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=80&section=footer&text=✨%20Keep%20Hacking%20in%20Pixel%20Style!%20✨&fontColor=FFD700&fontSize=20" /> </p>
-🎮 **[Veltric](https://github.com/Veltric)**  
-🧠 Data Science student | 🖥️ Pixel art explorer | ⚙️ App tinker  
-🛠️ Building cool tools like **Veltric Tube** – ad-free YouTube experiences  
-🌐 Making the web more fun one repo at a time  
+```
+█░█ █▀▀ █░░ ▀█▀ █▀▀ █▀▄ █ █▀▀   █▀█ ▄▀█ █▀█ █░█  
+█▄█ ██▄ █▄▄ ░█░ ██▄ █▄▀ █ ██▄   █▀▀ █▀█ █▄█ █▀█  
+```
+
+🧠 Data Science student | 🎨 Pixel Art Enthusiast | 🤖 AI + App Dev
 
 ---
 
-### 🧱 Tech Stack
+## 🧱 Tech Stack
 
-```text
-🧠 AI & Data: Python, Pandas, Scikit-learn, TensorFlow  
-💻 Dev: HTML, CSS, JavaScript, React, Node.js  
-📱 Mobile: Kotlin, Android Studio  
-🧰 Tools: Git, VSCode, CEF Python, SQLite, Ventoy  
+- 🐍 Python, Pandas, NumPy, Scikit-learn  
+- 📱 Kotlin (Android), CEF Python  
+- 🌐 HTML, CSS, JavaScript  
+- 🎨 Pixel Art & Retro UI Design  
+- 🔧 Git, SQLite, VS Code, Ventoy  
 
+---
+
+## 🕹️ Projects in Progress
+
+- **Veltric Tube**: Native Android YouTube app with ad-blocking, PiP, and downloads  
+- **YouTube-Only Browser**: CEF Python project w/ uBlock Origin  
+- **Pixel UI Themes** for dashboards and apps
+
+---
+
+## 📊 GitHub Stats
+
+![Veltric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veltric&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veltric&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Veltric)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Website](https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+
+---
+
+### 🎉 Fun Fact
+
+> “There's nothing quite like debugging a program... with chiptune music blasting and pixel sprites staring at you like it's 1985.”
+
+```
+
+### ✨ Level up. Stay retro. Game on. ✨
+```
+
+---
+
+Want a **pixel avatar**, custom **pixel font headers**, or **animated GIFs** for more vibe? I can help you add those too. Let me know how far retro you wanna go 🎨🕹️
