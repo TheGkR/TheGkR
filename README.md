@@ -1,23 +1,26 @@
-### Hi there 👋
+<!-- Retro Pixel Art Theme -->
 
-<h1 align="center">Hi 👋, I'm Goutham krishnan</h1>
-<h3 align="center">A student and a Datascience student and a pixel artist.</h3><br>
-<img src="achi.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegkr" alt="thegkr" /></a> </p>
-
-- 🌱 I’m currently learning **BCom(Bachelor of Commerce Datascience and Accounts)**
-
-- 📝 [My blog](https://gkspace.vercel.app/)
-<img src="main.gif" width="350" height="250">
-- <a href="mailto:gkroo7@protonmail.com"><img src="https://img.freepik.com/premium-vector/simple-letter-with-pixel-art-style_475147-420.jpg?w=2000" width="20">Send Email</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mr.amoz_" target="blank"><img align="center" src="https://openseauserdata.com/files/5c7db0d6e4ea8e09b6476984f8cc2c55.png" alt="mr.amoz_" height="40" width="50" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=150&section=header&text=👾%20Welcome%20to%20Veltric's%20Arcade%20Zone!%20👾&fontColor=FFD700&fontSize=30&fontAlignY=35" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegkr&show_icons=true&locale=en" alt="thegkr" /></p>
+🎮 **[Veltric](https://github.com/Veltric)**  
+🧠 Data Science student | 🖥️ Pixel art explorer | ⚙️ App tinker  
+🛠️ Building cool tools like **Veltric Tube** – ad-free YouTube experiences  
+🌐 Making the web more fun one repo at a time  
 
+---
+
+### 🧱 Tech Stack
+
+```text
+🧠 AI & Data: Python, Pandas, Scikit-learn, TensorFlow  
+💻 Dev: HTML, CSS, JavaScript, React, Node.js  
+📱 Mobile: Kotlin, Android Studio  
+🧰 Tools: Git, VSCode, CEF Python, SQLite, Ventoy  
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Veltric&show_icons=true&theme=tokyonight&hide_title=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veltric&layout=compact&theme=tokyonight" /> </p>
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=80&section=footer&text=✨%20Keep%20Hacking%20in%20Pixel%20Style!%20✨&fontColor=FFD700&fontSize=20" /> </p> ```
