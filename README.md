@@ -1,6 +1,6 @@
 
 
-<h3 align="center">🎨 Goutham Krishnan | 🧠 BCom Data Science | 🕹️ Pixel Artist</h3>
+<h3 align="center">🎨 Goutham Krishnan | 🧠 Data Science | 🕹️ Pixel Artist</h3>
 
 ---
 
