@@ -4,7 +4,6 @@
 
 ---
 
-<img src="achi.gif" width="200" align="right">
 
 ### 🌟 About Me
 
