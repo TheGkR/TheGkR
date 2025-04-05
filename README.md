@@ -7,7 +7,7 @@
 
 ### 🌟 About Me
 
-- 🧑‍🎓 Student of **BCom Data Science & Accounts**
+- 🧑‍🎓 Student of **Data Science**
 - 🎨 Making art, apps & experiences in **pixel form**
 - 🛠️ Exploring: Python, Web Dev,
 - ✨ Powered by Linux, Retro Aesthetics & Curiosity
