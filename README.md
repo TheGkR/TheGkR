@@ -9,7 +9,7 @@
 
 - 🧑‍🎓 Student of **BCom Data Science & Accounts**
 - 🎨 Making art, apps & experiences in **pixel form**
-- 🛠️ Exploring: Python, Web Dev, Kotlin, CEF Python
+- 🛠️ Exploring: Python, Web Dev,
 - ✨ Powered by Linux, Retro Aesthetics & Curiosity
 
 ---
@@ -18,7 +18,6 @@
 
 - 🎥 **Veltric Tube** – Ad-free YouTube app in Kotlin  
 - 🌐 **YT-Only Browser** – Made using CEF Python + uBlock  
-- 🎨 **Pixel Art Experiments** – UI, icons & game concepts
 
 ---
 
