@@ -55,8 +55,7 @@
 
 ### 🌐 Contact Me
 
-- 📬 [Email Me](mailto:gkroo7@protonmail.com)
-- 🖼️ [Instagram](https://instagram.com/mr.amoz_)
+- 📬 [Email Me](mailto:gouthamkrishnan@tuta.io)
 - 📝 [Blog / Portfolio](https://gkspace.vercel.app)
 
 ---
