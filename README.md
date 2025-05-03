@@ -55,7 +55,7 @@
 
 ### 🌐 Contact Me
 
-- 📬 [Email Me](mailto:gouthamkrishnan@tuta.io)
+- 📬 [Email Me](mailto:goutham@keemail.me)
 - 📝 [Blog / Portfolio](https://gkspace.vercel.app)
 
 ---
