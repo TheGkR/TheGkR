@@ -16,8 +16,7 @@
 
 ### 📂 Featured Projects
 
-- 🎥 **Veltric Tube** – Ad-free YouTube app in Kotlin  
-- 🌐 **YT-Only Browser** – Made using CEF Python + uBlock  
+- 🎥 **Format Changer** – Basic Format changer 
 
 ---
 
