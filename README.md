@@ -55,7 +55,7 @@
 ### 🌐 Contact Me
 
 - 📬 [Email Me](mailto:goutham@keemail.me)
-- 📝 [Blog / Portfolio](https://gkspace.vercel.app)
+- 📝 [Blog / Portfolio](https://gk.is-a.dev)
 
 ---
 
