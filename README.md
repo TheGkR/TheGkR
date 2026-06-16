@@ -21,7 +21,7 @@
 
 ```python
 goutham = {
-    "role"      : "Data Science Student",
+    "role"      : "Data Science Graduate",
     "passion"   : ["Pixel Art", "Web Dev", "Python"],
     "os"        : "Linux",
     "aesthetic" : "Retro / 8-bit",
