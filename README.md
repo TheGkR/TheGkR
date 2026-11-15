@@ -25,7 +25,7 @@ goutham = {
     "passion"   : ["Pixel Art", "Web Dev", "Python"],
     "os"        : "Linux",
     "aesthetic" : "Retro / 8-bit",
-    "goal"      : "Build things that look cool and do cool things"
+    "goal"      : "Build things that do cool things"
 }
 ```
 
