@@ -23,7 +23,7 @@
 goutham = {
     "role"      : "Data Science Graduate",
     "passion"   : ["Pixel Art", "Web Dev", "Python"],
-    "os"        : "Linux",
+    "os"        : "Fedora Linux",
     "aesthetic" : "Retro / 8-bit",
     "goal"      : "Build things that do cool things"
 }
